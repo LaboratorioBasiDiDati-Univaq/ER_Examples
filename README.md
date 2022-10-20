@@ -1,6 +1,7 @@
 # ER_Examples
 > Entity Realtionship diagrams developed during the lectures
 
+## Usage
 
 This repository contains the final ER diagrams developed during the lectures and based on the specifications given by the teacher. In particular, each specification *N* corresponds to a folder that contains
 
